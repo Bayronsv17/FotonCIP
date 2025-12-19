@@ -23,6 +23,11 @@ dist-ssr
 # Vercel
 .vercel
 
+# Documentation
+*.md
+!README.md
+!DEPLOYMENT.md
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
